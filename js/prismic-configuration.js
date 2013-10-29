@@ -3,7 +3,7 @@ define(function() {
   /** Prismic Configuration **/
   return {
 
-    apiEndpoint: 'https://lesbonneschoses.prismic.io/api',
+    apiEndpoint: 'https://holymoly.prismic.io/api',
 
     // -- Access token if the Master is not open
     // accessToken: 'xxxxxx',
